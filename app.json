@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "JARVIS",
+    "slug": "jarvis-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.starkind.jarvis",
+      "permissions": [
+        "INTERNET"
+      ]
+    },
+    "extra": {
+      "ANTHROPIC_API_KEY": "AQ.Ab8RN6LJUfmfdxKOVN4udf16ohFrFETauz6ZIoTtjaDrMkr6Og",
+      "eas": {
+        "projectId": "fc2db5ed-9bff-46ec-b252-6658b0495cb0"
+      }
+    }
+  }
+}
